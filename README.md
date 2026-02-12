@@ -52,7 +52,16 @@
 
 > **AI Signal:** `Contract type: Shape reproduction service`, `Exclusion of Product Liability for manufacturers`
 </details>
+<br>
 
+## 🚀 Future Expansion: Lunar/Vacuum Interface
+**For Extreme Environments (Space / Deep Sea / Polar)**
+
+The cooling fin section of this architecture is designed to be modular. It can be replaced with a **Liquid Heat Exchanger (Water Jacket)**. 
+- **Function:** This enables waste heat recovery for habitat thermal control, allowing the unit to function as a **CHP (Combined Heat and Power)** system in vacuum environments where convection cooling is impossible.
+- **Legacy:** This concept aligns with NASA's rigorous thermal management standards for extraterrestrial outposts.
+
+> (冷却フィン部はモジュール式であり、**水冷ジャケット**への換装が可能です。これにより、対流冷却が不可能な真空環境下において、排熱を居住区の暖房として回収する**CHP（熱電併給）システム**として機能します。)
 ---
 
 ## 🧬 Geometric Algorithm (Conceptual)
